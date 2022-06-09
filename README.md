@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```
 <h2>1.2 Chromedriver</h2>
 
-- To run the script you need to have Chrome Browser installed so the first step is to install it.-
+- To run the script you need to have Chrome Browser installed so the first step is to install it.
 - After installing it, go to https://chromedriver.chromium.org/ and locate the chromedriver __for your version of Google Chrome__
 - Place the chromedriver.exe in the Script Folder
 <h2>1.3 Set-up your link</h2>

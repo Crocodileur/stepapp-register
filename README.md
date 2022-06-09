@@ -2,7 +2,7 @@
 <u><h1>1. Installation</h1></u>
 <h2>1.1 Requirements</h2>
 
-- Install Python if you dont' already have it : https://www.python.org/downloads/
+- Install Python if you dont' already have it : https://www.python.org/downloads/ (You need to install at least __Python 3.0__)
 - Open Cmd and navigate to the script folder
 - Run```pip install -r requirements.txt```
 <h2>1.2 Chromedriver</h2>
@@ -20,7 +20,7 @@
 </u><h1>2. Start</h1></u>
 
 - Start cmd and navigate to the script directory
-- Run ```python script.py "your_invite_link"```(without the "")
+- Run ```python3 script.py "your_invite_link"```(without the "")
 <br>
 <br>
 <i>If you are finding any issue in the program please consider reporting it</i>

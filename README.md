@@ -27,3 +27,5 @@ pip install -r requirements.txt
   
   <i>If you are having issue while launching it (x module not fund), please install all requirements through Visual Studio Code console (pip install "missing-module-name"). Also, please remember to put the chromedriver.exe in Visual Studio code console root directory.</i>
 
+<br><br>
+<strong>For this program I used the 1SecEmail Api Made By Alex-Pancho which you can find right there : https://github.com/alex-pancho/1secmail</strong>

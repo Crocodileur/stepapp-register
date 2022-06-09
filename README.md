@@ -10,7 +10,7 @@ pip install -r requirements.txt
 - To run the script you need to have Chrome Browser installed so the first step is to install it.-
 - After installing it, go to https://chromedriver.chromium.org/ and locate the chromedriver __for your version of Google Chrome__
 - Place it in Script Folder
-
+<br>
 <h1>2. Start</h1>
 <h2>2.1 Normal Launch</h2>
 

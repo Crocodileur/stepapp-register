@@ -21,7 +21,7 @@ def split(word):
 while True:
 
     web = webdriver.Chrome()
-    web.get('https://app.step.app?r=P4PS7JGM')
+    web.get('https://app.step.app?r=P4PS7JGM')  #ENTER YOUR INVITE LINK RIGHT THERE.
 
     time.sleep(6)
 

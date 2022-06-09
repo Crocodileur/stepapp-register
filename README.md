@@ -3,9 +3,7 @@
 <h2>1.1 Requirements</h2>
 
 - Install Python if you dont' already have it : https://www.python.org/downloads/
-- Run```sh
-pip install -r requirements.txt
-```
+- Run```pip install -r requirements.txt```
 <h2>1.2 Chromedriver</h2>
 
 - To run the script you need to have Chrome Browser installed so the first step is to install it.

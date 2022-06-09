@@ -18,7 +18,6 @@
 
 <br>
 </u><h1>2. Start</h1></u>
-<h2>2.1 Normal Launch</h2>
 
 - Start cmd and navigate to the script directory
 - Run ```python script.py "your_invite_link"```(without the "")

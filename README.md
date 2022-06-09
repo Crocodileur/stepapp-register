@@ -21,17 +21,9 @@
 <h2>2.1 Normal Launch</h2>
 
 - Start cmd and navigate to the script directory
-- Run ```python script.py ```
+- Run ```python script.py "your_invite_link"```(without the "")
 
-<h2>2.2 Issues</h2>
-
-- If you are having issue, launch it using Visual Studio Code :
-  - Install Visual Studio Code from here : https://code.visualstudio.com
-  - Launch Visual Studio Code
-  - Open script.py
-  - Click launch button at top right
-  
-  <i>If you are having issue while launching it (x module not fund), please install all requirements through Visual Studio Code console (pip install "missing-module-name"). Also, please remember to put the chromedriver.exe in Visual Studio code console root directory.</i>
+  <i>If you are finding any issue in the program please consider reporting it</i>
 
 <br><br>
 <strong>For this program I used the 1SecEmail Api Made By Alex-Pancho which you can find right there : https://github.com/alex-pancho/1secmail</strong>

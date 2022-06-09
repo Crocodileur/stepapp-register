@@ -1,7 +1,7 @@
 <h1>1. Installation</h1>
 <h2>1.1 Requirements</h2>
 
-- Install Python if you dont' already have it : https://www.python.org/downloads/ (You need to install at least __Python 3.0__)
+- Install Python if you don't already have it : https://www.python.org/downloads/ (You need to install at least __Python 3.0__)
 - Open Cmd and navigate to the script folder
 - Run```pip install -r requirements.txt```
 <h2>1.2 Chromedriver</h2>

@@ -3,7 +3,7 @@
 <h2>1.1 Requirements</h2>
 
 - Install Python if you dont' already have it : https://www.python.org/downloads/
-```sh
+- Run```sh
 pip install -r requirements.txt
 ```
 <h2>1.2 Chromedriver</h2>

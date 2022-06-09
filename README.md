@@ -1,5 +1,4 @@
-
-<u><h1>1. Installation</h1></u>
+<h1>__1. Installation__</h1>
 <h2>1.1 Requirements</h2>
 
 - Install Python if you dont' already have it : https://www.python.org/downloads/ (You need to install at least __Python 3.0__)
@@ -17,7 +16,7 @@
 - Save the file
 
 <br>
-</u><h1>2. Start</h1></u>
+<h1>__2. Start__</h1>
 
 - Start cmd and navigate to the script directory
 - Run ```python3 script.py "your_invite_link"```(without the "")

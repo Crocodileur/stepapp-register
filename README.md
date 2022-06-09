@@ -1,5 +1,5 @@
 
-<h1><u>1. Installation</u></h1>
+<u><h1>1. Installation</h1></u>
 <h2>1.1 Requirements</h2>
 
 ```sh
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 - Save the file
 
 <br>
-<h1><u>2. Start</u></h1>
+</u><h1>2. Start</h1></u>
 <h2>2.1 Normal Launch</h2>
 
 - Start cmd and navigate to the script directory

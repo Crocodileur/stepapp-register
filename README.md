@@ -2,6 +2,7 @@
 <u><h1>1. Installation</h1></u>
 <h2>1.1 Requirements</h2>
 
+- Install Python if you dont' already have it : https://www.python.org/downloads/
 ```sh
 pip install -r requirements.txt
 ```
@@ -21,7 +22,7 @@ pip install -r requirements.txt
 <h2>2.1 Normal Launch</h2>
 
 - Start cmd and navigate to the script directory
-- Run ```python3 script.py ```
+- Run ```python script.py ```
 
 <h2>2.2 Issues</h2>
 

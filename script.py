@@ -5,12 +5,12 @@ import string
 import random
 from selenium import webdriver
 import argparse
-
+from os import system
 
 parser = argparse.ArgumentParser(description='Usage : \nscript.py \"your-link\"')
 parser.add_argument('link', type=str)
-args = parser.parse_args()
-
+args = parser.parse_args
+system("title " + 'Account Created : 0')
 
 def get_random_string(length):
     letters = string.ascii_lowercase
@@ -75,3 +75,4 @@ while True:
         web.close
     else:
         web.close
+    system("title " + 'Account Created : ',account_count)

@@ -1,3 +1,6 @@
+**Release as been published so make sure to use it. If you get any problem, please consider reporting it and you could try using the script here wich is a little bit different.**
+
+
 <h1>1. Installation</h1>
 <h2>1.1 Requirements</h2>
 

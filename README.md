@@ -21,6 +21,6 @@
 - Run ```python3 script.py "your_invite_link"```(without the "")
 <br>
 <br>
-<i>If you are finding any issue in the program please consider reporting it</i>
+<i>If you encounter any issue in the program please consider reporting it</i>
 
 <strong>For this program I used the 1SecEmail Api Made By Alex-Pancho which you can find right there : https://github.com/alex-pancho/1secmail</strong>

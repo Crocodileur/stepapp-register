@@ -13,7 +13,6 @@
 - After installing it, go to https://chromedriver.chromium.org/ and locate the chromedriver __for your version of Google Chrome__
 - Place the chromedriver.exe in the Script Folder
 
-
 <br>
 <h1>2. Start</h1>
 

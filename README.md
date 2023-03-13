@@ -1,4 +1,4 @@
-                                      **__THE PROJECT HAS BEEN ABANDONED BECAUSE THE 'STEP.APP' SITE IS NO LONGER AVAILABLE__**
+                                   THE PROJECT HAS BEEN ABANDONED BECAUSE THE 'STEP.APP' SITE IS NO LONGER AVAILABLE
 
 
 **Release as been published so make sure to use it. If you encounter any issue, please consider reporting it and you could try using the script here wich is a little bit different.**
